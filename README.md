@@ -36,6 +36,18 @@ Some config files from my windows10 environment
 - File icons: [File icons](https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons)
 - product icons: [Carbon](https://marketplace.visualstudio.com/items?itemName=antfu.icons-carbon)
 
+##### Rainmeter widget links:
+1. Main Clock (above computer): [here](https://www.deviantart.com/madmilov2/art/La-Compagnie-des-Ombres-486976404)
+
+2. welcome bacc on mat: [here](https://www.deviantart.com/catart-1304/art/Night-Clouds-0-1-912464750)
+
+3. clock on pc and the thing written there: [here](
+https://www.deviantart.com/catart-1304/art/Long-Night-by-Cat-Art-912676649)
+
+4. Bin on bottom right: [here](https://www.deviantart.com/mixsilmeria/art/Just-A-Bin-679398750)
+
+5. Spotify info on bottom left: [here](https://www.deviantart.com/apexxx-sensei/art/Astro-804775100)
+
 ##### Firefox setup:
 <details>
 <summary>Click me👆</summary>
