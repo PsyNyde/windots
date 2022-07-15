@@ -1,0 +1,67 @@
+{
+  "$schema": "https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/schema.json",
+  "blocks": [
+    {
+      "type": "prompt",
+      "alignment": "left",
+      "segments": [
+        {
+          "type": "session",
+          "style": "plain",
+          "foreground": "#ffffff",
+          "properties": {
+            "user_info_separator": "@",
+            "display_host": false,
+            "prefix": "<#A277FF>┌[</>",
+            "postfix": "<#A277FF>]</>"
+          }
+        },
+        {
+          "type": "git",
+          "style": "plain",
+          "foreground": "#ffffff",
+          "properties": {
+            "prefix": "<#A277FF>[</>",
+            "postfix": "<#A277FF>]</>"
+          }
+        },
+        {
+          "type": "root",
+          "style": "plain",
+          "foreground": "#ffffff",
+          "properties": {
+            "prefix": "<#A277FF>[</>",
+            "postfix": "<#A277FF>]</>"
+          }
+        },
+        {
+          "type": "exit",
+          "style": "plain",
+          "foreground": "#ffffff",
+          "properties": {
+            "prefix": "<#A277FF>[x</>",
+            "postfix": "<#A277FF>]</>"
+          }
+        }
+      ]
+    },
+    {
+      "type": "prompt",
+      "alignment": "left",
+      "newline": true,
+      "segments": [
+        {
+          "type": "path",
+          "style": "plain",
+          "foreground": "#ffffff",
+          "properties": {
+            "style": "full",
+            "prefix": "<#A277FF>└[</>",
+            "postfix": "<#A277FF>]></>"
+          }
+        }
+      ]
+    }
+  ],
+  "final_space": true
+}
