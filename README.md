@@ -45,10 +45,12 @@ Some config files from my windows10 environment
 ![img](assets/desktop.png)
 
 ---
+
 **Firefox & Nightab:**
 ![img](assets/firefox.png)
 
 ---
+
 **Vscode:**
 ![img](assets/vscode.png)
 
