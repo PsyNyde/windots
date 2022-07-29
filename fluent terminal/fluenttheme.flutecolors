@@ -1,0 +1,31 @@
+{
+  "EncodedImage": "",
+  "Name": "OperatorMonoDark",
+  "Author": null,
+  "Colors": {
+    "Foreground": "#EDECEE",
+    "Background": "#15141B",
+    "Cursor": "#A277FF",
+    "CursorAccent": "#110F18",
+    "Selection": "rgba(163, 148, 240, 0.328125)",
+    "SelectionForeground": null,
+    "SelectionBackground": null,
+    "Black": "#5A5A5A",
+    "Red": "#CA372D",
+    "Green": "#A277FF",
+    "Yellow": "#D4D697",
+    "Blue": "#4387CF",
+    "Magenta": "#B86CB4",
+    "Cyan": "#72D5C6",
+    "White": "#CED4CD",
+    "BrightBlack": "#9A9B99",
+    "BrightRed": "#C37D62",
+    "BrightGreen": "#A277FF",
+    "BrightYellow": "#FDFDC5",
+    "BrightBlue": "#89D3F6",
+    "BrightMagenta": "#FF2C7A",
+    "BrightCyan": "#82EADA",
+    "BrightWhite": "#FDFDF6"
+  },
+  "BackgroundImage": null
+}

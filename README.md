@@ -23,12 +23,12 @@
 Some config files from my windows10 environment
 
 #### ❖ Included configs for:
-- windows terminal preview
-- oh-my-posh
 - firefox 
+- oh-my-posh
 - nightab
 - rainmeter
 - discord web(w/[goosemod](https://goosemod.com/))
+- windows terminal preview & [fluent terminal](https://github.com/felixse/FluentTerminal)
 
 #### ❖ Extras:
  ##### Vscode:
@@ -74,6 +74,17 @@ https://www.deviantart.com/catart-1304/art/Long-Night-by-Cat-Art-912676649)
 
 </details>
 
+##### Fluent terminal setup:
+<details>
+<summary>Click me👆</summary>
+
+- goto settings > profiles > powershell
+- add `-noLogo` as argument
+- set opacity to `0.7500` on settings > terminal > background opacity & enable `Use acrylic background`
+- import theme from settings > themes > import👀
+
+</details>
+
 #### ❖ Special thanks to:
 - [u/Hyper_Memer](https://www.reddit.com/user/Hyper_Memer/) for [rainmeter config](https://www.reddit.com/r/Rainmeter/comments/vynl2a/comfort_of_the_night/) and [wallpaper](https://i.pinimg.com/originals/f5/04/a9/f504a9e5f31fbc006b4aa217c688512e.jpg)
 - [u/yozyk](https://www.reddit.com/user/yozyk/) for nightab [config](https://www.reddit.com/r/nighttab/comments/sjrl8f/here_we_go_again/)
@@ -89,6 +100,12 @@ https://www.deviantart.com/catart-1304/art/Long-Night-by-Cat-Art-912676649)
 **Firefox & Nightab:**
 
 ![img](assets/firefox.png)
+
+---
+
+**Terminals:**
+
+![img](assets/terminal.png)
 
 ---
 
