@@ -64,6 +64,16 @@ https://www.deviantart.com/catart-1304/art/Long-Night-by-Cat-Art-912676649)
 
 </details>
 
+##### Rainmeter setup:
+<details>
+<summary>Click me👆</summary>
+
+1. Install all skins from link above first.
+2. Goto `Documents\Rainmeter\Skins` & paste all folders under `rainmeter` folder on this repo.
+3. Import those skins and drag to adjust them & you'll be good to go✨
+
+</details>
+
 #### ❖ Special thanks to:
 - [u/Hyper_Memer](https://www.reddit.com/user/Hyper_Memer/) for [rainmeter config](https://www.reddit.com/r/Rainmeter/comments/vynl2a/comfort_of_the_night/) and [wallpaper](https://i.pinimg.com/originals/f5/04/a9/f504a9e5f31fbc006b4aa217c688512e.jpg)
 - [u/yozyk](https://www.reddit.com/user/yozyk/) for nightab [config](https://www.reddit.com/r/nighttab/comments/sjrl8f/here_we_go_again/)
